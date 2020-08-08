@@ -127,4 +127,11 @@ and install depends:
 sudo apt install build-essential
 sudo apt install libusb-1.0-0-dev
 sudo apt install pkg-config
+sudo apt install cmake
+
+build:
+mkdir build
+cd build
+cmake ..
+make
 ```

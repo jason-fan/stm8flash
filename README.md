@@ -120,10 +120,11 @@ Legend:
   * `?`    - Not tested.
   * `FAIL` - Not working. Needs fix.
 -----------
+```nohighlight
 update your ubuntu apt source from:
 https://mirrors.ustc.edu.cn/repogen/
 and install depends:
 sudo apt install build-essential
 sudo apt install libusb-1.0-0-dev
 sudo apt install pkg-config
-
+```

@@ -1,0 +1,9 @@
+.*.swp
+*.o
+*.bin
+*.ihx
+*.hex
+*.exe
+*.gch
+tags
+build

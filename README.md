@@ -1,3 +1,5 @@
+(origin  https://github.com/vdudouyt/stm8flash.git)
+
 stm8flash
 =========
 
@@ -117,4 +119,11 @@ Legend:
   * `no`   - Not supported.
   * `?`    - Not tested.
   * `FAIL` - Not working. Needs fix.
+-----------
+update your ubuntu apt source from:
+https://mirrors.ustc.edu.cn/repogen/
+and install depends:
+sudo apt install build-essential
+sudo apt install libusb-1.0-0-dev
+sudo apt install pkg-config
 
